@@ -28,4 +28,14 @@ cd exam-portal
 # Ensure one answer per line.
 
 # Run the script:
-./exam_portal.sh
+./exam_portal.sh bash
+```
+###📁 File Structure
+```bash
+exam_portal.sh      # Main script file  
+questionbank.txt    # Stores the questions for the test  
+correctans.txt      # Stores correct answers for evaluation  
+username.csv        # Logs usernames  
+password.csv        # Logs passwords  
+mark_record.txt     # Logs user scores  
+```
