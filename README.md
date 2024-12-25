@@ -35,9 +35,9 @@ This project is a command-line-based examination portal created using Bash scrip
    ./final_main_file.sh
    ```
 Follow the prompts to:
-    🔑 Sign In to an existing account.
-    🆕 Sign Up to create a new account.
-    📝 Take the test and view results.
+   - 🔑 Sign In to an existing account.
+   - 🆕 Sign Up to create a new account.
+   - 📝 Take the test and view results.
    
 ## 📁 File Structure
 ```plaintext
