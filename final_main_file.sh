@@ -32,6 +32,7 @@ function sign_up() {
   echo -e "\e[1;32m--------- SIGN UP ---------\e[0m"
   echo -ne "\e[1;36mPlease Enter your Username: \e[0m"
   read username
+  usernames=($(cat username.csv))
   for i in ${usernames[@]}; do
     if [ "$username" = "$i" ]; then
       echo -e "\e[1;31mUsername already exists! Please enter a different username.\e[0m"
