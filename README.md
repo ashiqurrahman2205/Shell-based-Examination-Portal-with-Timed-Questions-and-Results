@@ -30,12 +30,14 @@ cd exam-portal
 # Run the script:
 ./exam_portal.sh bash
 ```
-###📁 File Structure
-```bash
-exam_portal.sh      # Main script file  
-questionbank.txt    # Stores the questions for the test  
-correctans.txt      # Stores correct answers for evaluation  
-username.csv        # Logs usernames  
-password.csv        # Logs passwords  
-mark_record.txt     # Logs user scores  
+## 📁 File Structure
+```plaintext
+├── correctans.txt       # Stores the correct answers for evaluation.
+├── final_main_file.sh   # The main Bash script file for the portal.
+├── log.txt              # Logs user sign-ins with timestamps.
+├── mark_record.txt      # Records scores achieved by each user.
+├── password.csv         # Stores encrypted passwords for user accounts.
+├── questionbank.txt     # Stores the test questions in blocks of 5 lines.
+├── userans.txt          # Logs user responses during the test.
+├── username.csv         # Stores registered usernames.
 ```
