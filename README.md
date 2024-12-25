@@ -1,4 +1,4 @@
-# 🚀 Interactive Examination Portal with Timed Questions and Result Analytics  
+# 🎓 Interactive Examination Portal with Timed Questions and Result Analytics  
 
 ## 📖 Overview  
 This project is a command-line-based examination portal created using Bash scripting. It provides a secure, interactive environment for conducting tests, managing user accounts, and evaluating performance in a user-friendly format.  
