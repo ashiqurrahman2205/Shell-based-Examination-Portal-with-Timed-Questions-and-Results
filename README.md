@@ -28,6 +28,16 @@ This project is a command-line-based examination portal created using Bash scrip
    ```bash
    chmod +x final_main_file.sh
    ```
+## 🛠️ Usage
+
+1. Run the script:
+   ```bash
+   ./final_main_file.sh
+   ```
+Follow the prompts to:
+    🔑 Sign In to an existing account.
+    🆕 Sign Up to create a new account.
+    📝 Take the test and view results.
    
 ## 📁 File Structure
 ```plaintext
@@ -39,6 +49,7 @@ This project is a command-line-based examination portal created using Bash scrip
 ├── questionbank.txt     # Stores the test questions in blocks of 5 lines.
 ├── userans.txt          # Logs user responses during the test.
 ├── username.csv         # Stores registered usernames.
+├──license               #Information on license
 ```
 ## 🎥 Demo  
 
@@ -50,5 +61,15 @@ Watch the Demo on YouTube to see the portal in action:
 - 🏁 Final result screen.  
 
 **[📺 Watch the demo video here](https://www.youtube.com/watch?v=yourvideoid)**  
+## 🤝 Contribution  
+
+Contributions are welcome! To enhance this project:  
+1. Fork the repository.  
+2. Create a new feature branch.  
+3. Submit a pull request.  
+
+## 📜 License  
+
+This project is licensed under the MIT License.  
 
 
