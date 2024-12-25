@@ -15,21 +15,20 @@ This project is a command-line-based examination portal created using Bash scrip
 - 🖥️ Linux-based operating system.  
 - 🐚 Bash shell (v4.0 or above).  
 
-## 🚧 Installation & Usage  
-```bash
-# Clone this repository:
-git clone https://github.com/ashiqurrahman2205/Shell-based-Examination-Portal-with-Timed-Questions-and-Results.git
-cd exam-portal
+## 🚧 Installation  
 
-# Add your questions to questionbank.txt:
-# Ensure each question block is separated by a newline.
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/ashiqurrahman2205/Shell-based-Examination-Portal-with-Timed-Questions-and-Results.git
+   cd Shell-based-Examination-Portal-with-Timed-Questions-and-Results
+   ```
+2. Ensure all the files (correctans.txt, questionbank.txt, etc.) are in the same directory as the script.
 
-# Add corresponding answers to correctans.txt:
-# Ensure one answer per line.
-
-# Run the script:
-./exam_portal.sh bash
-```
+3. Assign execute permission to the script:
+   ```bash
+   chmod +x final_main_file.sh
+   ```
+   
 ## 📁 File Structure
 ```plaintext
 ├── correctans.txt       # Stores the correct answers for evaluation.
@@ -41,3 +40,15 @@ cd exam-portal
 ├── userans.txt          # Logs user responses during the test.
 ├── username.csv         # Stores registered usernames.
 ```
+## 🎥 Demo  
+
+Watch the Demo on YouTube to see the portal in action:  
+
+- 🔑 User logging in and taking the test.  
+- ⏲️ Timed question interface.  
+- 🌈 Decorative UI and animations.  
+- 🏁 Final result screen.  
+
+**[📺 Watch the demo video here](https://www.youtube.com/watch?v=yourvideoid)**  
+
+
