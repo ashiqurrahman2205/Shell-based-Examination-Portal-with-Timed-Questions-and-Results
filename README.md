@@ -18,5 +18,5 @@ This project is a command-line-based examination portal created using Bash scrip
 ## Installation  
 1. Clone this repository:  
    ```bash
-   [git clone https://github.com/yourusername/exam-portal.git](https://github.com/ashiqurrahman2205/shell-based-Examination-Portal-with-Timed-Questions-and-Results.git]
+   git clone https://github.com/yourusername/exam-portal.git](https://github.com/ashiqurrahman2205/shell-based-Examination-Portal-with-Timed-Questions-and-Results.git
    cd shell-based-Examination-Portal-with-Timed-Questions-and-Results
