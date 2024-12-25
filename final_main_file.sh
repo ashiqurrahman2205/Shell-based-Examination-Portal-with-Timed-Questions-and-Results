@@ -1,5 +1,11 @@
 #!/bin/bash
-
+# =============================================================================
+# Script Name: final_main_files.sh
+# Description: A command-line based examination portal with timed questions.
+# Author: K M ASHIQUR RAHMAN
+# Date: 25-12-2024
+# Version: 1.0
+# =============================================================================
 function show_menu() {
   clear
   echo -e "\e[1;32m*********************************************************\e[0m"
